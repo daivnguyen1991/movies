@@ -40,7 +40,7 @@ const useStore = create((set, get) => ({
 
 export default useStore;
 
-export const api_key = "1ddf8ba087c0886a55e373a92d870a1b";
+export const api_key = "key_api";
 
 export const linkUrlSearchKeyword = (query, page) =>
   `https://api.themoviedb.org/3/search/movie?api_key=${api_key}&language=en-US&query=${query}&page=${page}&include_adult=true`;
