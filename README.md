@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 > plz, enter your API key in /src/store/index.js | Line: 43
-![Demo](https://drive.google.com/file/d/1O60gI9pntrTT0hwTZEAuhmJ0-MjeOFZT/view?usp=sharing)
+![Demo](https://github.com/daivnguyen1991/movies/blob/main/public/demoVideo.gif)
 > Please record screen to a GIF file and attach link here
 
 ## License
